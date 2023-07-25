@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="People" tvg-name="People" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",People (720p)
-https://github.com/ShkutKonsta/iptv/raw/main/People.mp4
-#EXTINF:-1 tvg-id="Sea" tvg-name="Sea" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",Sea (720p)
-https://github.com/ShkutKonsta/iptv/raw/main/Sea.mp4
-#EXTINF:-1 tvg-id="Animals" tvg-name="Animals" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",Animals (720p)
-https://github.com/ShkutKonsta/iptv/raw/main/Animals.mp4
